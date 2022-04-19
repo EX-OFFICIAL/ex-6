@@ -1,5 +1,5 @@
 # Mr-Ex
-Facebook Friendlist Clone command
+Facebook 6 Digit Clone command
 <!-- cloning -->
 
 <p align="center">
@@ -44,7 +44,7 @@ $ rm -rf Mr-Ex
 $ git clone git://github.com/Mr3x1/ex-6.git
 ```
 
-- Change to cloned directory and run `cloning.sh` -
+- Change to cloned directory and run `ex_6.py` -
 ```
 $ cd ex-6
 $ python2 ex_6.py
